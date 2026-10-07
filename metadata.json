@@ -1,0 +1,6 @@
+{
+  "name": "AqlliSuv",
+  "description": "Qishloq xo‘jaligi maydonlari uchun aqlli sug‘orish va suv resurslarini boshqarish IoT/AI platformasi. Har tomchi suv — hisobda. Har bir ekin — nazoratda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
